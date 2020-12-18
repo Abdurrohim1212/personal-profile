@@ -6,5 +6,6 @@
     </head>
     <body>
         <p>Hello Semua Saya ardian, Saya sedang belajar Git</p>
+	<p>Focus on Git for a moment</p>
     </body>
 </html>
